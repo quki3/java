@@ -16,3 +16,7 @@ Para comprobar que tenemos instalado Java en nuestro sistema solo debemos de eje
 
 - java --version
 El cual nos devolverá una respuesta con nuestra versión de java instalada.
+
+# copilar 
+- `javac archivo.java` compila y crea el archivo ejecutable
+- `java archivo` corre el archivo
