@@ -32,6 +32,6 @@ In an interface, we cannot implement any methods in the parent class, and each c
 first download the software https://www.oracle.com/java/technologies/downloads/
 
 
-* resources
-- pdf free <a href="./introToJava.pdf">introducion a java (spanish)</a>
-
+Resources <sub>
+                \\ pdf free <a href="./introToJava.pdf">introducion a java (spanish)</a>
+          </sub>
