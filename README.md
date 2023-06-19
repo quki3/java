@@ -31,6 +31,3 @@ In an interface, we cannot implement any methods in the parent class, and each c
 ## DOWNLOAD AND INSTALLATION
 first download the software https://www.oracle.com/java/technologies/downloads/
 
-
-##
-
