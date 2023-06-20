@@ -1,5 +1,5 @@
 # JAVA
-
+` Last update jun 20 2023 `
 ## INTRODUCTION
 Java is a programming language created by james Gosling and Sun Microsystems (later bought by Oracle) 
 its syntax is similar to C and C++
@@ -29,9 +29,15 @@ In an abstrac class, we could implement the methods that interest us and leave t
 In an interface, we cannot implement any methods in the parent class, and each child class has to provide its ows implementation of the methods.
 
 ## DOWNLOAD AND INSTALLATION
-first download the software https://www.oracle.com/java/technologies/downloads/
+https://dev.java/learn/getting-started/
+
+## GET STARTED
+https://dev.java/
+
+## CHALLENGES
+1. - (A) whit the follow <a href="https://dev.java/learn/getting-started/">documentation</a> create a "hello word" with java.
 
 
-Resources <sub>
-                \\ pdf free <a href="./introToJava.pdf">introducion a java (spanish)</a>
-          </sub>
+
+
+
