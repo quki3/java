@@ -1,5 +1,5 @@
 # JAVA
-` Last update jun 21 2023 `
+` Last update jun 22 2023 `
 ## INTRODUCTION
 Java is a programming language created by james Gosling and Sun Microsystems (later bought by Oracle) 
 its syntax is similar to C and C++
@@ -35,9 +35,9 @@ https://dev.java/learn/getting-started/
 https://dev.java/
 
 ## CHALLENGES
-1. 
-- (A) whit the follow <a href="https://dev.java/learn/getting-started/">documentation</a> create a "hello word" with java.
-- (B) @make@a@challenger of methods pag20
+1. 1/
+   -  A/  whit the follow <a href="https://dev.java/learn/getting-started/">documentation</a> create a "hello word" with java.
+   -  B/  @make@a@challenger of methods pag20
 
 
 
