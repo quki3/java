@@ -36,8 +36,8 @@ https://dev.java/
 
 ## CHALLENGES
 1. 1/
-   -  A/  whit the follow <a href="https://dev.java/learn/getting-started/">documentation</a> create a "hello word" with java.
-   -  B/  whit this <a href="">doc</a> create simple method in Java that calculates the sum of two integers and returns the result
+   -  A/  whit the follow <a href="https://dev.java/learn/getting-started/">doc</a> create a "hello word" with java.
+   -  B/  whit this <a href="https://github.com/junit-team/junit4/wiki/Getting-started">doc</a> create simple method in Java that calculates the sum of two integers and returns the result
 
 
 
