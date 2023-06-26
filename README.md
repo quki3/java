@@ -1,6 +1,7 @@
 # JAVA
-` Last update jun 22 2023 `
-## INTRODUCTION
+` Last update jun 26 2023 `
+## welcome
+## Introduction
 Java is a programming language created by james Gosling and Sun Microsystems (later bought by Oracle) 
 its syntax is similar to C and C++
 java add features like thread management, remote execution,etc.
@@ -27,12 +28,11 @@ In a class, when definig one methods, we would have to implement the code
 for the method, the subclasses that inherit from superclass would not have to implement these methods unless they want
 In an abstrac class, we could implement the methods that interest us and leave the rest unimplemented (as abstract methods). these methods would need to be implemented in the child classes.
 In an interface, we cannot implement any methods in the parent class, and each child class has to provide its ows implementation of the methods.
+## java doc
+<a href="https://dev.java/learn/getting-started/>java</a>
 
-## DOWNLOAD AND INSTALLATION
+## download and instalation
 https://dev.java/learn/getting-started/
-
-## GET STARTED
-https://dev.java/
 
 ## CHALLENGES
 1. 1/
