@@ -1,9 +1,10 @@
 // import - when you want to used a package external
 // org.junit.jupiter.api.Test - this is the library that we want use all core @ Test is here 
-// org.junit.AssertEquals - we want to use this here
+// org.junit.AssertEquals - this make assertion about 2 obj.
 import org.junit.jupiter.api.Test
 import static org.junit.Assert.assertEquals;
 
+// public
 public class HelloWorldTest {
 
     @Test
