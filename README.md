@@ -1,5 +1,5 @@
-# JAVA
-` Last update jun 26 2023 `
+# java
+` Last update jun 28 2023 `
 ## welcome
 ## Introduction
 Java is a programming language created by james Gosling and Sun Microsystems (later bought by Oracle) 
