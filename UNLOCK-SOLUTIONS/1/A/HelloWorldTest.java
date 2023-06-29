@@ -4,7 +4,7 @@
 import org.junit.jupiter.api.Test
 import static org.junit.Assert.assertEquals;
 
-// public
+// public When applied to a class, the "public" keyword indicates that the class is accessible from other classes and packages. It means that other classes can create objects of that class and access its public members 
 public class HelloWorldTest {
 
     @Test
