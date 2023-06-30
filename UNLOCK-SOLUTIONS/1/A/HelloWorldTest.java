@@ -4,10 +4,12 @@
 import org.junit.jupiter.api.Test
 import static org.junit.Assert.assertEquals;
 
-// public When applied to a class, the "public" keyword indicates that the class is accessible from other classes and packages. It means that other classes can create objects of that class and access its public members 
+// public - When applied to a class, the "public" keyword indicates that the class is accessible from other classes and packages. It means that other classes can create objects of that class and access its public members
+// class - A class in Java encapsulates data (variables) and methods (functions) that operate on that data. It defines the structure and behavior of objects, allowing you to create multiple instances of the class with similar characteristics.
 public class HelloWorldTest {
-
+    // @ test - Annotations are used to provide additional information or metadata about classes, methods, or other program elements.it indicates that the annotated method should be executed as a test case when running the JUnit test suite.
     @Test
+           // void - it means that the method does not return any value.
     public void testHelloWorld() {
         // Arrange
         HelloWorld helloWorld = new HelloWorld();
