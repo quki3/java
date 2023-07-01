@@ -11,7 +11,9 @@ public class HelloWorldTest {
     @Test
            // void - it means that the method does not return any value.
     public void testHelloWorld() {
-        // Arrange
+        // HelloWorld - is the name of a class. It could be a class defined in your own code or a class from a library or framework.
+        // helloWorld - variable name
+        // is a special keyword combination that creates a new instance of the HelloWorld class using the class's constructor.
         HelloWorld helloWorld = new HelloWorld();
 
         // Act
